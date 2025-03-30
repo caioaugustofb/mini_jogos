@@ -69,3 +69,5 @@ O Copilot me informou sobre o buffer de entrada que faz com que após um scanf o
 while (getchar() != '\n');
 
 Basicamente sendo uma repetição do que já estava na minha função para ver se conseguia resolver o problema, porém infelizmente não consegui resolver esse problema e após a adição do While o jogador precisa pressionar Enter duas vezes. Quando retirei o While o comportamento se repetiu de a função não ser chamada em algumas partes do terceiro jogo, pois o jogo estava ignorando minha função pressioneEnter, então por conta disso decidi manter o While no código e deixar que o jogador precise pressionar duas vezes o Enter, já que a minha função pressioneEnter funcionou corretamente para os dois primeiros jogos, mas teve problema apenas para o terceiro.
+
+Essas foram minhas interações com o Copilot. Infelizmente não consegui trazer o histórico de conversas, mas espero que tenha ficado claro tudo o que foi feito com o auxilio do mesmo.
