@@ -4,9 +4,7 @@ Jogo dessenvolvido em C pelo aluno Caio Augusto contendo 3 mini jogos selecionad
 
 
 Aqui irei colocar algumas informações relacionadas ao meu jogo e o processo de desenvolvimento incluindo minhas conversas com o Copilot do Vscode
-Primeiramente devo informar que minhas conversas foram perdidas devido a eu ter desabilitado o copilot do vscode e eu estava utilizando ele para
-me ajudar com algumas dúvidas e dificuldades que tive no código. Quando estava configurando tudo que precisava para fazer o commit dos arquivos 
-para o github, fechei o vscode e o projeto para alterar nomes de pasta e etc, com isso meu histórico todo foi apagado e eu não consegui recuperar 
+Primeiramente devo informar que minhas conversas foram perdidas devido a eu ter desabilitado o copilot do vscode para tentar solucionar um problema de resposta que o próprio chat do Copilot estava oferecendo e eu estava utilizando ele para me ajudar com algumas dúvidas e dificuldades que tive no código. Quando estava configurando tudo que precisava para fazer o commit dos arquivos para o github, fechei o vscode e o projeto para alterar nomes de pasta e etc, com isso meu histórico todo foi apagado e eu não consegui recuperar 
 minhas conversas com o copilot, mas irei informar tudo que foi utilizado a partir da IA.
 Utilizei o Copilot para me auxiliar a "enfeitar" meu jogo, coisas como: alterar as cores das fontes que estariam sendo executadas em certas
 linhas, criar funções que iriam me ajudar com escrita de caracteres um por um, uma função para que eu tenha que pressionar enter antes de 
