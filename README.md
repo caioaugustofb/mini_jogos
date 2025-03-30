@@ -1,4 +1,5 @@
 # mini_jogos
+Projeto desenvolvido para avaliação da faculdade CESUPA
 Jogo dessenvolvido em C pelo aluno Caio Augusto contendo 3 mini jogos selecionados a partir de um menu integrado: 
 1) Perguntas e respostas 2) Cobra na caixa 3) Gousmas War
 
