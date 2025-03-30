@@ -1,5 +1,6 @@
 # mini_jogos
-Jogo feito em C contendo 3 mini jogos selecionados a partir de um menu integrado: 1) Perguntas e respostas 2) Cobra na caixa 3) Gousmas War
+Jogo dessenvolvido em C pelo aluno Caio Augusto contendo 3 mini jogos selecionados a partir de um menu integrado: 
+1) Perguntas e respostas 2) Cobra na caixa 3) Gousmas War
 
 
 Aqui irei colocar algumas informações relacionadas ao meu jogo e o processo de desenvolvimento incluindo minhas conversas com o Copilot do Vscode
