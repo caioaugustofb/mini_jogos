@@ -6,11 +6,11 @@ Aqui irei colocar algumas informações relacionadas ao meu jogo e o processo de
 Priemiramente devo informar que minhas conversas foram pertidas devido a eu ter desabilitado o copilot do vscode e eu estava utilizando ele para me ajudar com algumas dúvidas e dificuldades que tive no código. Quando estava configurando tudo que precisava para fazer o commit dos arquivos para o github, fechei o vscode e o projeto para alterar nomes de pasta e etc, com isso meu histórico todo foi apagado e eu não consegui recuperar minhas conversas com o copilot, mas irei informar tudo que foi utilizado a partir da IA.
 Utilizei o Copilot para me auxiliar a "enfeitar" meu jogo, coisas como: alterar as cores das fontes que estariam sendo executadas em certas linhas, criar funções que iriam me ajudar com escrita de caracteres um por um, uma função para que eu tenha que pressionar enter antes de executar as próximas linhas de código como mostrado a seguir:
 
-void pressioneEnter() {
+'''c\void pressioneEnter() {
     printf("Pressione ENTER para continuar...\n");
     while (getchar() != '\n');
     getchar();
-}
+}\n'''
 
 void exibirComAtraso(const char* texto, int atraso) {
     while (*texto) {
